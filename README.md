@@ -87,7 +87,7 @@ Example:
 
 
 Name: **VGGFACE2**  
-Link:  
+Link:  http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
 Description: The dataset contains 3.31 million images of 9131 subjects (identities), with an average of 362.6 images for each subject. Images are downloaded from Google Image Search and have large variations in pose, age, illumination, ethnicity and profession (e.g. actors, athletes, politicians). The whole dataset is split to a training set (including 8631 identites) and a test set (including 500 identites).  
 Size: 3.31 million images (9131 subjects)  
 Landmarks: 5  
