@@ -15,6 +15,7 @@
 [The IMM Frontal Face Database](#imm-frontal)  
 [UMB-DB: The University of Milano Bicocca 3D Face Database](#umb-db)  
 [VGGFACE2](#vggface2)  
+[XM2VTS 68pt Markup](#xm2vts)  
 
 ---
 
@@ -153,3 +154,13 @@ Landmarks: 46
 Free: Yes  
 Example:  
 ![](example/example-FEI.jpg)  
+
+
+Name: <a name="xm2vts"></a>**XM2VTS 68pt Markup**  
+Link: https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/data/xm2vts/xm2vts_markup.html  
+Description: The XM2VTS frontal data set contains 2360 mug shots of 295 individuals collected over 4 sessions.  
+Size: 2360 images (295 subjects)  
+Landmarks: 68  
+Free: Yes  
+Example:  
+![](example/example-xm2vts.png)  
